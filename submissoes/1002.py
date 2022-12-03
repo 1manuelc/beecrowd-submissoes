@@ -3,4 +3,4 @@ raio = float(input())
 
 area = pi * (raio**2)
 
-print('A=' '{:.4f}'.format(area))
+print('A={:.4f}'.format(area))
